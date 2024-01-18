@@ -20,10 +20,13 @@ const techStacks = [
 ]
 ```
 Made with ❤️ by [Atharva Joshi](https://github.com/AtharvA20003/Atharva_Joshi/blob/main/Atharva-Joshi.md)
-Get in touch:
-+ Gmail : <daujo3036@gmail.com>
-+ LinkedIn : <https://www.linkedin.com/in/atharva-joshi-902970225/>
-+ GitHub : <https://github.com/AtharvA20003> 😉
+
+
+>[!NOTE]
+>Get in touch:
+> + Gmail : <daujo3036@gmail.com>
+> + LinkedIn : <https://www.linkedin.com/in/atharva-joshi-902970225/>
+> + GitHub : <https://github.com/AtharvA20003> 😉
 
 
 
