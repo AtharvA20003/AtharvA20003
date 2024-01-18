@@ -19,7 +19,7 @@ const techStacks = [
   }
 ]
 ```
-Made with ❤️ by ![Atharva Joshi](https://github.com/AtharvA20003/Atharva_Joshi/blob/main/Atharva-Joshi.md)
+Made with ❤️ by [Atharva Joshi](https://github.com/AtharvA20003/Atharva_Joshi/blob/main/Atharva-Joshi.md)
 
 
 
