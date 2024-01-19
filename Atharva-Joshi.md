@@ -9,7 +9,6 @@ I love exploring new things, learning new technologies, scientific advancements 
 Apart from these I love music, movies poetries and (fiction) novels.
 
 ```javascript
-const pronouns = ["he|him"];
 const codingLanguages = ["C++", "🐍", "Java", "JavaScript"];
 const techStacks = [
   "Web development":{
