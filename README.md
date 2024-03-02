@@ -1,5 +1,5 @@
 ```javascript
-const greet => (){
+const greet = () => {
     console.log("Hello! How are you?");
 }
 ```
